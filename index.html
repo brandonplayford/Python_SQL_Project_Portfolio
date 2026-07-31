@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Project Archive</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #12151b;
+    --bg-raised: #171b23;
+    --line: #2a3040;
+    --text: #e4e1d8;
+    --text-dim: #8b93a3;
+    --brass: #b08d57;
+    --teal: #5c8a89;
+    --red: #9c4a4a;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Inter', sans-serif;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    background-image: repeating-linear-gradient(
+      0deg,
+      rgba(255,255,255,0.012) 0px,
+      rgba(255,255,255,0.012) 1px,
+      transparent 1px,
+      transparent 3px
+    );
+    z-index: 1;
+  }
+
+  .wrap {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 0 24px;
+  }
+
+  /* Header */
+  header {
+    border-bottom: 1px solid var(--line);
+    padding: 64px 0 40px;
+  }
+
+  .eyebrow {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    letter-spacing: 0.18em;
+    color: var(--brass);
+    text-transform: uppercase;
+    margin-bottom: 18px;
+  }
+
+  .eyebrow::before { content: '// '; opacity: 0.6; }
+
+  h1 {
+    font-family: 'Fraunces', serif;
+    font-weight: 600;
+    font-size: clamp(2.4rem, 6vw, 3.6rem);
+    letter-spacing: -0.01em;
+    margin-bottom: 16px;
+  }
+
+  header p {
+    font-size: 16px;
+    color: var(--text-dim);
+    max-width: 52ch;
+  }
+
+  .meta-row {
+    display: flex;
+    gap: 28px;
+    margin-top: 28px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    color: var(--text-dim);
+    flex-wrap: wrap;
+  }
+
+  .meta-row span b {
+    color: var(--text);
+    font-weight: 500;
+  }
+
+  /* Case files */
+  main { padding: 48px 0 100px; position: relative; z-index: 2; }
+
+  .case {
+    border: 1px solid var(--line);
+    background: var(--bg-raised);
+    margin-bottom: 28px;
+    position: relative;
+    transition: border-color 0.25s ease;
+  }
+
+  .case:hover { border-color: #3a4257; }
+
+  .case-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 16px;
+    padding: 26px 28px 0;
+  }
+
+  .case-no {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    color: var(--text-dim);
+    letter-spacing: 0.08em;
+  }
+
+  .status {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 3px 10px;
+    border: 1px solid currentColor;
+    border-radius: 2px;
+    white-space: nowrap;
+  }
+
+  .status.active { color: var(--teal); }
+  .status.pending { color: var(--brass); }
+
+  .case-body { padding: 14px 28px 28px; }
+
+  .case-title {
+    font-family: 'Fraunces', serif;
+    font-size: 1.6rem;
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+
+  .case-desc {
+    color: var(--text-dim);
+    font-size: 14.5px;
+    max-width: 62ch;
+    margin-bottom: 18px;
+  }
+
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 22px;
+  }
+
+  .tag {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--text-dim);
+    border: 1px solid var(--line);
+    padding: 4px 9px;
+    border-radius: 2px;
+  }
+
+  .case-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid var(--line);
+    padding-top: 18px;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  .stamp {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--red);
+    opacity: 0.85;
+  }
+
+  a.open {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px;
+    color: var(--text);
+    text-decoration: none;
+    border-bottom: 1px solid var(--brass);
+    padding-bottom: 2px;
+    transition: color 0.2s ease, border-color 0.2s ease;
+  }
+
+  a.open:hover { color: var(--brass); }
+
+  a.open::after { content: ' →'; }
+
+  .case.locked .case-title,
+  .case.locked .case-desc { color: var(--text-dim); }
+
+  .case.locked .open {
+    color: var(--text-dim);
+    border-color: var(--line);
+    pointer-events: none;
+  }
+
+  footer {
+    border-top: 1px solid var(--line);
+    padding: 28px 0 60px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    color: var(--text-dim);
+  }
+
+  @media (max-width: 560px) {
+    header { padding: 44px 0 32px; }
+    .case-head { flex-direction: column; }
+  }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Personal Archive</div>
+    <h1>Project Files</h1>
+    <p>A working record of things built while learning. Simulations, analyses, and tools, filed as they're completed.</p>
+    <div class="meta-row">
+      <span>ANALYST: <b>Brandon Playford</b></span>
+      <span>STACK: <b>Python · NumPy · Pandas · Matplotlib</b></span>
+      <span>STATUS: <b>Open</b></span>
+    </div>
+  </header>
+
+  <main>
+
+    <div class="case">
+      <div class="case-head">
+        <div class="case-no">CASE NO. 001</div>
+        <div class="status active">Active</div>
+      </div>
+      <div class="case-body">
+        <div class="case-title">Astra Mortis Loot Simulation</div>
+        <p class="case-desc">
+          A weighted drop rate simulation for a legendary weapon questchain from
+          <em>The Final Bastion</em>. Models 1,000 simulated raid clears against
+          three hallucinated Avatars of the Umbral Collective, compares observed
+          drop rates to designed rates, and estimates the number of clears required
+          to fully craft the weapon.
+        </p>
+        <div class="tags">
+          <span class="tag">numpy</span>
+          <span class="tag">pandas</span>
+          <span class="tag">matplotlib</span>
+          <span class="tag">simulation</span>
+        </div>
+        <div class="case-footer">
+          <div class="stamp">Drop rate analysis / complete</div>
+          <a class="open" href="https://colab.research.google.com/drive/1ja7cHGvJN9XKkdhGbx4Yvuic-hHHJ8YC?usp=sharing" target="_blank">Open case file</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="case locked">
+      <div class="case-head">
+        <div class="case-no">CASE NO. 002</div>
+        <div class="status pending">Pending</div>
+      </div>
+      <div class="case-body">
+        <div class="case-title">Untitled</div>
+        <p class="case-desc">Filed once complete.</p>
+        <div class="tags">
+          <span class="tag">sql</span>
+        </div>
+        <div class="case-footer">
+          <div class="stamp">Awaiting intake</div>
+          <a class="open" href="#">Open case file</a>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <footer>
+    Updated as new work is filed.
+  </footer>
+</div>
+
+</body>
+</html>
