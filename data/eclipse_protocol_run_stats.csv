@@ -1,201 +1,201 @@
 class,animus1,animus1_rarity,animus1_upgrade_level,animus2,animus2_rarity,animus2_upgrade_level,bane,malice_orbs,mission_district,mission_type,outcome,kills,weapon_kills,thrash_kills,malediction_kills,annihilation_kills,deaths,perfect_infusions,failed_infusions,times_dodged,duration_seconds
-Hellion,Machine Guns,Green,8,Bolt Action Rifles,Green,7,Soul Reaper,9,Foundry Sector,Eclipse Protocol,Fallen,24,16,4,3,1,2,1,1,17,500
-Hellion,Lever Action Rifles,White,0,Lever Action Rifles,Blue,4,Farsight,8,Iron Slums,Elite Incursion,Fallen,20,16,3,1,0,4,1,1,10,441
-Wraith,Machine Guns,Purple,5,Automatic Rifles,Blue,2,Lunar Warhorn,6,Foundry Sector,Elite Incursion,Extracted,10,7,2,1,0,1,2,2,6,281
-Monolith,Revolvers,White,0,Revolvers,Blue,6,Wurm Food,14,Iron Slums,Elite Incursion,Extracted,24,16,4,2,2,0,3,4,44,1285
-Arcanist,Revolvers,Green,15,Lever Action Rifles,Blue,2,Postmaster,11,Military District,Incursion,Extracted,24,14,6,2,2,0,3,2,21,705
-Arcanist,Revolvers,White,0,Revolvers,Blue,9,Fear & Loathing,9,Wilderness,Eclipse Protocol,Extracted,17,11,4,2,0,0,3,2,8,418
-Hellion,Revolvers,Green,15,Trench Guns,Blue,9,Wolfpack,1,Foundry Sector,Eclipse Protocol,Fallen,27,18,7,2,0,2,5,5,35,1215
-Hellion,Trench Guns,Blue,8,Revolvers,Blue,2,Wolfpack,7,Iron Slums,Incursion,Extracted,142,78,35,27,2,0,10,18,39,2879
-Wraith,Automatic Rifles,Green,8,Bolt Action Rifles,White,0,Korzuul's Head,12,Military District,Invasion,Extracted,9,6,2,1,0,2,1,1,4,251
-Immortal,Automatic Rifles,Blue,3,Automatic Rifles,Purple,5,Postmaster,9,Wilderness,Incursion,Extracted,58,38,11,9,0,0,4,7,40,1477
-Hellion,Lever Action Rifles,Blue,2,Revolvers,Green,8,Fear & Loathing,11,Marketplace,Invasion,Extracted,41,28,7,6,0,2,4,2,25,1326
-Occultist,Automatic Rifles,White,0,Lever Action Rifles,White,0,Korzuul's Head,13,Military District,Invasion,Fallen,53,33,10,7,3,3,5,6,31,1089
-Monolith,Lever Action Rifles,Purple,1,Machine Guns,Purple,4,Theory of Captivity,6,Aristocratic Ward,Incursion,Extracted,12,9,2,1,0,0,3,1,12,365
-Hellion,Bolt Action Rifles,Blue,5,Bolt Action Rifles,White,0,Soul Reaper,1,Foundry Sector,Incursion,Extracted,109,64,28,17,0,0,7,5,61,2432
-Immortal,Automatic Rifles,Green,11,Automatic Rifles,Green,1,Korzuul's Head,8,Wilderness,Lair,Fallen,7,6,1,0,0,3,1,0,18,586
-Arcanist,Automatic Rifles,Green,2,Revolvers,White,0,Postmaster,7,Marketplace,Elite Incursion,Extracted,70,44,14,9,3,1,7,6,117,3464
-Hellion,Trench Guns,Blue,10,Bolt Action Rifles,Green,14,Farsight,7,Marketplace,Elite Incursion,Extracted,28,19,5,3,1,0,6,2,25,822
-Wraith,Revolvers,Blue,9,Trench Guns,Orange,0,Warden,5,Wilderness,Incursion,Extracted,7,4,2,1,0,1,1,2,2,202
-Occultist,Automatic Rifles,Green,12,Lever Action Rifles,Blue,7,Korzuul's Head,12,Wilderness,Lair,Fallen,0,0,0,0,0,3,2,3,1,65
-Wraith,Trench Guns,White,0,Trench Guns,Purple,5,Warden,7,Foundry Sector,Invasion,Extracted,3,3,0,0,0,0,0,0,5,162
-Wraith,Lever Action Rifles,Green,4,Revolvers,Green,10,Wurm Food,12,Aristocratic Ward,Elite Incursion,Extracted,14,11,2,1,0,1,1,0,19,597
-Monolith,Automatic Rifles,Green,10,Automatic Rifles,Green,4,Fear & Loathing,12,Wilderness,Eclipse Protocol,Extracted,2,2,0,0,0,1,0,0,3,157
-Arcanist,Bolt Action Rifles,Green,12,Lever Action Rifles,Blue,1,Wurm Food,12,Marketplace,Eclipse Protocol,Extracted,48,27,12,9,0,0,5,3,31,1417
-Arcanist,Automatic Rifles,White,0,Machine Guns,White,0,Postmaster,7,Aristocratic Ward,Incursion,Extracted,56,36,11,8,1,2,3,4,25,1320
-Occultist,Revolvers,Orange,0,Bolt Action Rifles,White,0,Theory of Captivity,7,Wilderness,Incursion,Extracted,10,8,1,1,0,0,1,3,6,354
-Monolith,Trench Guns,Green,12,Lever Action Rifles,Purple,5,Korzuul's Head,9,Iron Slums,Elite Incursion,Extracted,133,83,33,15,2,0,8,8,63,2757
-Arcanist,Automatic Rifles,White,0,Revolvers,Green,14,Theory of Captivity,4,Aristocratic Ward,Incursion,Extracted,26,16,6,4,0,0,1,3,11,661
-Monolith,Bolt Action Rifles,White,0,Lever Action Rifles,Blue,10,Lunar Warhorn,3,Aristocratic Ward,Eclipse Protocol,Extracted,26,17,5,3,1,0,1,2,14,786
-Monolith,Lever Action Rifles,White,0,Machine Guns,Blue,5,Lunar Warhorn,8,Wilderness,Incursion,Extracted,12,9,1,2,0,0,3,4,4,264
-Immortal,Revolvers,Green,7,Trench Guns,Blue,7,Soul Reaper,13,Marketplace,Invasion,Extracted,35,22,7,6,0,0,6,5,31,1237
-Wraith,Machine Guns,Purple,2,Automatic Rifles,Green,14,Fear & Loathing,9,Foundry Sector,Eclipse Protocol,Fallen,8,5,2,1,0,4,1,1,4,245
-Wraith,Lever Action Rifles,White,0,Automatic Rifles,Purple,2,Theory of Captivity,12,Marketplace,Incursion,Extracted,16,11,3,2,0,2,1,0,17,823
-Hellion,Automatic Rifles,Blue,1,Bolt Action Rifles,Green,10,Wurm Food,12,Foundry Sector,Eclipse Protocol,Extracted,3,3,0,0,0,1,0,0,2,179
-Monolith,Revolvers,Purple,3,Lever Action Rifles,Green,7,Fear & Loathing,5,Marketplace,Elite Incursion,Extracted,32,18,8,5,1,0,4,4,40,1271
-Hellion,Machine Guns,White,0,Revolvers,White,0,Wurm Food,4,Marketplace,Elite Incursion,Extracted,13,8,3,2,0,2,1,3,19,800
-Immortal,Lever Action Rifles,Blue,7,Revolvers,Blue,4,Farsight,7,Military District,Incursion,Extracted,6,4,1,1,0,3,0,1,5,260
-Monolith,Bolt Action Rifles,Green,5,Lever Action Rifles,White,0,Wurm Food,8,Iron Slums,Elite Incursion,Extracted,11,8,3,0,0,1,3,2,11,662
-Wraith,Bolt Action Rifles,Blue,2,Machine Guns,White,0,Lunar Warhorn,6,Iron Slums,Incursion,Extracted,21,14,5,2,0,0,4,1,22,691
-Hellion,Trench Guns,White,0,Bolt Action Rifles,Blue,7,Postmaster,3,Marketplace,Elite Incursion,Extracted,11,9,2,0,0,2,2,2,16,501
-Hellion,Machine Guns,Blue,4,Bolt Action Rifles,Blue,2,Wurm Food,12,Wilderness,Elite Incursion,Extracted,22,14,4,3,1,2,3,2,18,680
-Wraith,Lever Action Rifles,Green,6,Machine Guns,Purple,5,Fear & Loathing,7,Aristocratic Ward,Invasion,Extracted,24,15,6,3,0,0,1,1,19,562
-Monolith,Automatic Rifles,Purple,4,Lever Action Rifles,Green,14,Warden,6,Iron Slums,Invasion,Fallen,45,30,7,8,0,4,2,4,34,1100
-Wraith,Revolvers,Purple,1,Machine Guns,Blue,10,Korzuul's Head,2,Iron Slums,Eclipse Protocol,Extracted,27,19,5,3,0,0,3,0,18,673
-Immortal,Lever Action Rifles,Green,15,Lever Action Rifles,Blue,2,Farsight,15,Aristocratic Ward,Incursion,Extracted,6,5,1,0,0,1,0,0,5,194
-Arcanist,Machine Guns,White,0,Machine Guns,Green,2,Warden,9,Aristocratic Ward,Lair,Extracted,28,20,4,3,1,1,2,2,27,1247
-Immortal,Revolvers,Green,1,Trench Guns,White,0,Wolfpack,9,Iron Slums,Eclipse Protocol,Extracted,6,5,1,0,0,0,1,0,8,392
-Arcanist,Automatic Rifles,Blue,8,Trench Guns,White,0,Wurm Food,9,Wilderness,Invasion,Extracted,33,19,9,4,1,0,2,4,20,1213
-Monolith,Machine Guns,Blue,5,Machine Guns,White,0,Warden,5,Marketplace,Incursion,Extracted,28,16,6,4,2,0,3,4,11,803
-Wraith,Revolvers,Green,7,Revolvers,Green,11,Wurm Food,8,Aristocratic Ward,Incursion,Extracted,48,27,12,9,0,0,3,3,27,1009
-Monolith,Lever Action Rifles,Purple,5,Revolvers,Green,13,Lunar Warhorn,6,Iron Slums,Incursion,Extracted,10,7,2,1,0,0,2,1,11,545
-Hellion,Lever Action Rifles,White,0,Bolt Action Rifles,Green,15,Wolfpack,9,Marketplace,Incursion,Extracted,8,6,1,1,0,2,0,0,7,216
-Wraith,Automatic Rifles,Purple,1,Lever Action Rifles,Orange,0,Wurm Food,6,Iron Slums,Incursion,Extracted,35,20,9,4,2,0,3,5,20,1103
-Hellion,Machine Guns,Purple,4,Bolt Action Rifles,Blue,3,Fear & Loathing,10,Marketplace,Elite Incursion,Extracted,31,19,8,4,0,2,4,3,45,1453
-Monolith,Bolt Action Rifles,Green,1,Trench Guns,Orange,0,Soul Reaper,12,Military District,Elite Incursion,Fallen,26,17,5,3,1,3,2,2,47,1413
-Immortal,Bolt Action Rifles,White,0,Revolvers,Blue,1,Wurm Food,8,Wilderness,Eclipse Protocol,Extracted,46,25,13,4,4,1,2,2,47,1701
-Arcanist,Machine Guns,White,0,Trench Guns,Orange,0,Wolfpack,14,Military District,Elite Incursion,Fallen,128,78,29,21,0,2,10,7,61,3497
-Occultist,Lever Action Rifles,White,0,Revolvers,White,0,Theory of Captivity,5,Iron Slums,Eclipse Protocol,Fallen,36,23,7,6,0,1,3,3,23,1192
-Arcanist,Revolvers,Blue,6,Lever Action Rifles,Blue,3,Theory of Captivity,8,Marketplace,Elite Incursion,Extracted,48,25,14,7,2,1,2,1,22,1478
-Arcanist,Automatic Rifles,Blue,4,Automatic Rifles,Purple,4,Theory of Captivity,13,Foundry Sector,Elite Incursion,Fallen,53,34,9,7,3,1,3,2,41,1489
-Monolith,Lever Action Rifles,Orange,0,Lever Action Rifles,Purple,4,Postmaster,11,Military District,Elite Incursion,Extracted,7,5,1,0,1,2,1,1,7,537
-Occultist,Lever Action Rifles,White,0,Trench Guns,Green,10,Soul Reaper,6,Iron Slums,Eclipse Protocol,Fallen,14,10,2,1,1,3,3,3,14,412
-Hellion,Automatic Rifles,Blue,4,Automatic Rifles,White,0,Soul Reaper,11,Iron Slums,Eclipse Protocol,Extracted,39,23,7,5,4,0,3,3,32,1791
-Wraith,Revolvers,Green,9,Lever Action Rifles,Green,1,Lunar Warhorn,10,Aristocratic Ward,Invasion,Extracted,18,12,4,1,1,2,1,1,22,699
-Arcanist,Bolt Action Rifles,Green,2,Bolt Action Rifles,Blue,6,Wurm Food,14,Foundry Sector,Incursion,Extracted,53,31,12,7,3,0,2,1,26,1196
-Wraith,Lever Action Rifles,White,0,Lever Action Rifles,Blue,9,Korzuul's Head,1,Aristocratic Ward,Incursion,Extracted,58,36,9,10,3,2,6,6,52,1890
-Arcanist,Automatic Rifles,White,0,Automatic Rifles,Purple,5,Lunar Warhorn,4,Foundry Sector,Eclipse Protocol,Extracted,11,8,1,1,1,0,2,1,8,370
-Occultist,Revolvers,Blue,10,Machine Guns,Blue,1,Korzuul's Head,4,Marketplace,Incursion,Extracted,2,2,0,0,0,1,0,0,2,112
-Hellion,Bolt Action Rifles,Blue,8,Automatic Rifles,Blue,8,Wolfpack,15,Aristocratic Ward,Incursion,Extracted,4,3,1,0,0,1,1,0,3,115
-Immortal,Trench Guns,White,0,Trench Guns,Green,8,Warden,9,Marketplace,Incursion,Extracted,14,10,3,1,0,1,3,2,15,951
-Monolith,Lever Action Rifles,Blue,10,Machine Guns,Orange,0,Wolfpack,9,Aristocratic Ward,Incursion,Extracted,10,8,1,1,0,0,4,3,29,1076
-Wraith,Machine Guns,Green,2,Revolvers,White,0,Korzuul's Head,13,Military District,Incursion,Extracted,19,13,4,2,0,0,3,4,18,577
-Arcanist,Bolt Action Rifles,White,0,Trench Guns,Orange,0,Wurm Food,6,Military District,Lair,Extracted,31,18,5,5,3,0,2,2,21,905
-Occultist,Machine Guns,Green,7,Bolt Action Rifles,Blue,6,Warden,13,Aristocratic Ward,Eclipse Protocol,Extracted,70,44,15,8,3,3,11,5,101,3577
-Arcanist,Revolvers,White,0,Trench Guns,Green,3,Lunar Warhorn,13,Marketplace,Invasion,Extracted,11,8,2,1,0,1,0,0,22,1006
-Arcanist,Machine Guns,Purple,3,Machine Guns,White,0,Lunar Warhorn,8,Iron Slums,Incursion,Extracted,16,11,3,2,0,1,2,1,14,722
-Occultist,Machine Guns,White,0,Machine Guns,Purple,3,Soul Reaper,14,Aristocratic Ward,Eclipse Protocol,Extracted,25,15,4,2,4,1,2,2,34,1153
-Wraith,Automatic Rifles,Green,8,Revolvers,Green,7,Korzuul's Head,7,Iron Slums,Incursion,Extracted,90,53,23,12,2,1,8,5,47,2633
-Immortal,Lever Action Rifles,Green,14,Trench Guns,Blue,4,Korzuul's Head,11,Iron Slums,Invasion,Fallen,19,14,3,2,0,1,1,2,13,563
-Monolith,Bolt Action Rifles,White,0,Machine Guns,Blue,2,Postmaster,9,Wilderness,Lair,Extracted,24,14,5,3,2,0,4,2,24,803
-Wraith,Bolt Action Rifles,Blue,1,Bolt Action Rifles,Blue,1,Wurm Food,9,Wilderness,Incursion,Extracted,9,7,2,0,0,0,2,0,4,194
-Arcanist,Trench Guns,Purple,3,Machine Guns,Purple,4,Theory of Captivity,7,Foundry Sector,Invasion,Extracted,2,2,0,0,0,3,1,0,2,116
-Immortal,Lever Action Rifles,Green,5,Machine Guns,Green,5,Fear & Loathing,8,Military District,Incursion,Extracted,35,25,8,2,0,1,5,3,21,1391
-Hellion,Revolvers,White,0,Automatic Rifles,White,0,Wurm Food,10,Aristocratic Ward,Invasion,Extracted,51,30,14,6,1,2,4,7,27,1035
-Monolith,Lever Action Rifles,Orange,0,Lever Action Rifles,Green,11,Farsight,7,Foundry Sector,Lair,Extracted,20,12,5,3,0,0,2,4,17,515
-Wraith,Machine Guns,Green,13,Automatic Rifles,Orange,0,Theory of Captivity,9,Iron Slums,Incursion,Fallen,14,11,2,1,0,2,1,2,10,657
-Monolith,Automatic Rifles,Green,5,Bolt Action Rifles,White,0,Soul Reaper,14,Iron Slums,Elite Incursion,Extracted,73,44,21,7,1,3,3,1,90,3231
-Monolith,Machine Guns,Purple,2,Bolt Action Rifles,Green,8,Warden,14,Foundry Sector,Lair,Extracted,8,6,2,0,0,2,3,2,8,371
-Monolith,Machine Guns,Purple,5,Machine Guns,White,0,Fear & Loathing,7,Military District,Elite Incursion,Fallen,125,78,19,19,9,3,12,10,73,3323
-Arcanist,Trench Guns,White,0,Lever Action Rifles,Purple,5,Wurm Food,9,Foundry Sector,Invasion,Extracted,15,11,3,1,0,0,1,1,18,585
-Monolith,Automatic Rifles,White,0,Machine Guns,Green,7,Warden,10,Iron Slums,Incursion,Extracted,21,14,5,2,0,2,2,5,27,758
-Immortal,Machine Guns,Purple,2,Machine Guns,Green,10,Wolfpack,0,Wilderness,Incursion,Extracted,23,14,6,3,0,2,1,3,9,558
-Arcanist,Bolt Action Rifles,Green,15,Machine Guns,Purple,1,Soul Reaper,8,Foundry Sector,Eclipse Protocol,Extracted,11,8,2,1,0,1,0,2,18,776
-Hellion,Automatic Rifles,Green,7,Bolt Action Rifles,White,0,Soul Reaper,14,Military District,Elite Incursion,Extracted,20,13,4,3,0,0,1,1,7,470
-Hellion,Trench Guns,Purple,4,Revolvers,Orange,0,Fear & Loathing,12,Foundry Sector,Lair,Fallen,18,11,5,2,0,5,1,0,23,705
-Immortal,Bolt Action Rifles,White,0,Bolt Action Rifles,Blue,1,Wurm Food,10,Military District,Lair,Extracted,4,4,0,0,0,0,2,2,6,274
-Monolith,Machine Guns,Green,8,Trench Guns,Purple,3,Wurm Food,14,Military District,Eclipse Protocol,Fallen,10,7,2,1,0,2,1,0,7,546
-Wraith,Trench Guns,Purple,4,Revolvers,Green,3,Warden,15,Military District,Lair,Fallen,27,15,8,3,1,4,3,4,20,798
-Occultist,Automatic Rifles,White,0,Bolt Action Rifles,Green,2,Farsight,12,Marketplace,Eclipse Protocol,Fallen,28,19,5,2,2,5,3,0,23,922
-Hellion,Bolt Action Rifles,White,0,Automatic Rifles,Purple,5,Wolfpack,9,Aristocratic Ward,Incursion,Extracted,29,19,6,4,0,1,1,0,38,1098
-Monolith,Automatic Rifles,White,0,Lever Action Rifles,Green,4,Lunar Warhorn,10,Foundry Sector,Invasion,Fallen,28,16,8,3,1,2,3,3,19,802
-Wraith,Lever Action Rifles,Green,2,Trench Guns,Green,13,Theory of Captivity,0,Wilderness,Lair,Extracted,8,7,1,0,0,2,1,0,12,535
-Wraith,Revolvers,Green,3,Revolvers,White,0,Wurm Food,7,Marketplace,Eclipse Protocol,Extracted,16,12,3,1,0,0,1,3,15,629
-Wraith,Trench Guns,Green,9,Bolt Action Rifles,Purple,1,Postmaster,7,Aristocratic Ward,Elite Incursion,Fallen,3,3,0,0,0,4,0,1,1,113
-Immortal,Machine Guns,White,0,Automatic Rifles,Blue,2,Wolfpack,13,Iron Slums,Eclipse Protocol,Fallen,20,14,4,2,0,2,1,2,29,1186
-Occultist,Trench Guns,Blue,2,Automatic Rifles,Purple,4,Wolfpack,5,Iron Slums,Elite Incursion,Extracted,7,6,1,0,0,0,2,1,21,683
-Immortal,Trench Guns,White,0,Bolt Action Rifles,Orange,0,Wolfpack,9,Iron Slums,Invasion,Extracted,4,4,0,0,0,3,1,2,3,166
-Monolith,Machine Guns,Green,3,Machine Guns,Green,13,Postmaster,8,Military District,Incursion,Extracted,8,7,1,0,0,0,2,3,5,277
-Immortal,Automatic Rifles,White,0,Trench Guns,Purple,4,Wurm Food,6,Aristocratic Ward,Incursion,Extracted,12,8,2,1,1,0,0,1,8,336
-Wraith,Lever Action Rifles,White,0,Lever Action Rifles,White,0,Korzuul's Head,10,Marketplace,Lair,Extracted,2,2,0,0,0,2,0,0,5,194
-Hellion,Machine Guns,Blue,8,Machine Guns,Green,3,Wurm Food,14,Aristocratic Ward,Incursion,Extracted,11,7,2,2,0,0,0,1,9,543
-Arcanist,Revolvers,White,0,Automatic Rifles,Green,11,Postmaster,6,Wilderness,Invasion,Extracted,11,8,2,1,0,0,2,3,11,488
-Immortal,Bolt Action Rifles,Green,10,Revolvers,Orange,0,Wolfpack,8,Marketplace,Invasion,Fallen,14,9,3,2,0,1,2,1,11,430
-Immortal,Trench Guns,Purple,3,Revolvers,Green,4,Farsight,8,Iron Slums,Invasion,Extracted,28,17,6,5,0,2,1,2,22,845
-Occultist,Machine Guns,Blue,8,Revolvers,Green,10,Theory of Captivity,9,Foundry Sector,Lair,Extracted,29,20,4,2,3,0,3,4,13,964
-Arcanist,Lever Action Rifles,White,0,Machine Guns,Blue,1,Theory of Captivity,9,Iron Slums,Eclipse Protocol,Extracted,42,29,6,5,2,1,4,3,40,1441
-Hellion,Revolvers,White,0,Machine Guns,Blue,5,Korzuul's Head,8,Wilderness,Incursion,Extracted,40,23,11,6,0,0,2,4,34,978
-Immortal,Trench Guns,Purple,3,Trench Guns,Purple,5,Soul Reaper,6,Marketplace,Invasion,Fallen,21,13,4,4,0,3,2,1,25,750
-Monolith,Machine Guns,White,0,Automatic Rifles,White,0,Lunar Warhorn,12,Military District,Elite Incursion,Extracted,3,3,0,0,0,0,1,2,3,90
-Occultist,Bolt Action Rifles,Purple,5,Bolt Action Rifles,Blue,1,Postmaster,6,Marketplace,Lair,Extracted,16,11,2,3,0,2,1,0,8,477
-Arcanist,Machine Guns,Orange,0,Revolvers,White,0,Postmaster,10,Military District,Lair,Extracted,62,41,11,9,1,0,4,5,43,1248
-Occultist,Lever Action Rifles,Orange,0,Lever Action Rifles,Blue,7,Wolfpack,6,Wilderness,Lair,Extracted,40,25,9,5,1,2,3,1,49,1416
-Monolith,Machine Guns,Green,3,Automatic Rifles,Orange,0,Wurm Food,6,Marketplace,Eclipse Protocol,Extracted,31,20,7,4,0,1,4,4,19,1010
-Occultist,Trench Guns,White,0,Revolvers,Green,7,Lunar Warhorn,7,Marketplace,Lair,Extracted,42,26,6,7,3,2,2,2,38,1111
-Monolith,Lever Action Rifles,Orange,0,Automatic Rifles,Blue,2,Fear & Loathing,8,Military District,Incursion,Extracted,22,15,6,1,0,1,1,0,44,1313
-Monolith,Lever Action Rifles,Green,1,Trench Guns,Purple,4,Soul Reaper,10,Iron Slums,Invasion,Extracted,56,35,13,7,1,1,3,5,21,1279
-Occultist,Lever Action Rifles,White,0,Lever Action Rifles,Green,11,Wurm Food,8,Foundry Sector,Invasion,Extracted,40,27,7,5,1,2,3,3,14,1023
-Hellion,Automatic Rifles,Green,7,Bolt Action Rifles,Orange,0,Wurm Food,12,Marketplace,Invasion,Extracted,17,12,2,2,1,1,3,2,16,571
-Wraith,Machine Guns,White,0,Bolt Action Rifles,Green,3,Theory of Captivity,4,Military District,Invasion,Extracted,25,16,6,3,0,0,3,3,17,948
-Hellion,Machine Guns,Blue,10,Bolt Action Rifles,White,0,Fear & Loathing,15,Wilderness,Incursion,Extracted,44,31,7,5,1,0,4,5,28,892
-Occultist,Trench Guns,White,0,Lever Action Rifles,Blue,5,Soul Reaper,11,Marketplace,Invasion,Fallen,50,30,9,5,6,4,6,3,48,2725
-Monolith,Automatic Rifles,Green,3,Revolvers,Green,4,Farsight,6,Iron Slums,Incursion,Extracted,4,4,0,0,0,0,2,1,7,272
-Occultist,Trench Guns,Purple,4,Bolt Action Rifles,Orange,0,Korzuul's Head,5,Foundry Sector,Invasion,Extracted,10,7,2,1,0,2,1,1,8,315
-Hellion,Lever Action Rifles,White,0,Machine Guns,Purple,4,Farsight,11,Wilderness,Elite Incursion,Fallen,7,6,1,0,0,2,2,4,4,149
-Hellion,Automatic Rifles,White,0,Revolvers,White,0,Farsight,13,Wilderness,Elite Incursion,Extracted,5,4,1,0,0,2,2,1,7,329
-Hellion,Revolvers,Green,14,Automatic Rifles,Blue,10,Postmaster,6,Iron Slums,Lair,Extracted,35,22,7,5,1,2,2,2,22,774
-Occultist,Machine Guns,White,0,Machine Guns,Green,13,Lunar Warhorn,6,Marketplace,Lair,Extracted,9,7,1,1,0,1,2,1,5,257
-Immortal,Automatic Rifles,Blue,8,Lever Action Rifles,Blue,7,Soul Reaper,0,Iron Slums,Elite Incursion,Extracted,2,2,0,0,0,0,0,1,1,80
-Immortal,Automatic Rifles,Blue,5,Lever Action Rifles,Green,3,Lunar Warhorn,8,Marketplace,Incursion,Extracted,32,19,6,5,2,0,3,1,18,1278
-Immortal,Trench Guns,Blue,8,Revolvers,Blue,2,Farsight,14,Iron Slums,Elite Incursion,Fallen,18,13,2,3,0,2,0,1,36,1065
-Arcanist,Trench Guns,Purple,1,Bolt Action Rifles,Purple,5,Warden,9,Military District,Incursion,Extracted,2,2,0,0,0,1,0,0,2,98
-Monolith,Trench Guns,White,0,Automatic Rifles,White,0,Lunar Warhorn,9,Marketplace,Invasion,Fallen,11,9,1,1,0,4,2,2,27,871
-Arcanist,Automatic Rifles,Green,4,Trench Guns,Blue,6,Wolfpack,8,Military District,Eclipse Protocol,Extracted,22,15,4,3,0,0,3,1,23,755
-Arcanist,Automatic Rifles,Blue,3,Lever Action Rifles,Blue,4,Theory of Captivity,8,Aristocratic Ward,Eclipse Protocol,Extracted,27,16,7,4,0,0,2,1,33,1418
-Hellion,Revolvers,Blue,4,Machine Guns,White,0,Fear & Loathing,4,Aristocratic Ward,Incursion,Extracted,46,25,10,5,6,0,3,6,55,2568
-Occultist,Trench Guns,White,0,Trench Guns,White,0,Fear & Loathing,8,Iron Slums,Incursion,Fallen,20,14,3,3,0,2,1,1,27,893
-Hellion,Revolvers,Purple,4,Lever Action Rifles,White,0,Theory of Captivity,14,Military District,Eclipse Protocol,Extracted,21,14,3,1,3,0,1,3,13,925
-Wraith,Revolvers,Blue,2,Trench Guns,Green,5,Warden,4,Marketplace,Incursion,Extracted,14,10,2,2,0,0,3,2,10,519
-Wraith,Trench Guns,White,0,Automatic Rifles,White,0,Korzuul's Head,10,Marketplace,Elite Incursion,Extracted,31,19,8,3,1,2,4,2,25,828
-Monolith,Machine Guns,White,0,Machine Guns,White,0,Wolfpack,10,Marketplace,Incursion,Extracted,17,11,3,3,0,1,4,2,10,396
-Immortal,Automatic Rifles,Blue,3,Machine Guns,White,0,Postmaster,10,Wilderness,Incursion,Extracted,24,16,4,4,0,0,1,3,7,563
-Arcanist,Machine Guns,Orange,0,Revolvers,Blue,4,Korzuul's Head,12,Marketplace,Incursion,Fallen,25,16,6,3,0,4,1,2,24,772
-Arcanist,Bolt Action Rifles,Green,12,Trench Guns,Green,7,Wurm Food,4,Aristocratic Ward,Lair,Extracted,17,10,3,2,2,1,2,3,16,685
-Hellion,Bolt Action Rifles,Purple,3,Revolvers,Green,10,Farsight,12,Military District,Elite Incursion,Fallen,10,8,1,1,0,2,2,2,6,231
-Arcanist,Automatic Rifles,Blue,9,Revolvers,Orange,0,Wurm Food,7,Iron Slums,Incursion,Extracted,27,17,5,5,0,0,1,1,35,1429
-Immortal,Revolvers,Blue,5,Automatic Rifles,Green,9,Postmaster,6,Military District,Incursion,Extracted,28,18,6,3,1,1,2,2,24,914
-Arcanist,Automatic Rifles,White,0,Machine Guns,Blue,9,Warden,13,Wilderness,Eclipse Protocol,Extracted,15,9,4,2,0,1,2,0,16,1238
-Arcanist,Lever Action Rifles,Green,7,Lever Action Rifles,White,0,Soul Reaper,7,Wilderness,Incursion,Extracted,3,3,0,0,0,1,1,2,3,132
-Wraith,Bolt Action Rifles,Blue,2,Lever Action Rifles,White,0,Postmaster,11,Wilderness,Eclipse Protocol,Extracted,10,8,2,0,0,0,1,1,10,554
-Hellion,Revolvers,Blue,10,Machine Guns,Blue,4,Warden,13,Iron Slums,Incursion,Extracted,3,3,0,0,0,1,0,0,6,200
-Immortal,Machine Guns,White,0,Trench Guns,Purple,2,Warden,8,Iron Slums,Eclipse Protocol,Fallen,19,14,3,2,0,1,1,0,11,656
-Hellion,Lever Action Rifles,White,0,Lever Action Rifles,White,0,Theory of Captivity,6,Aristocratic Ward,Incursion,Extracted,32,22,5,5,0,1,5,1,27,841
-Hellion,Automatic Rifles,Green,11,Automatic Rifles,Blue,7,Wurm Food,14,Aristocratic Ward,Lair,Extracted,28,18,5,2,3,3,3,4,34,1692
-Immortal,Trench Guns,White,0,Machine Guns,White,0,Wurm Food,6,Foundry Sector,Elite Incursion,Extracted,0,0,0,0,0,1,0,0,2,70
-Immortal,Bolt Action Rifles,White,0,Revolvers,Blue,1,Soul Reaper,5,Wilderness,Incursion,Extracted,1,1,0,0,0,3,1,2,1,69
-Occultist,Automatic Rifles,White,0,Trench Guns,Purple,1,Korzuul's Head,14,Marketplace,Incursion,Extracted,29,20,4,3,2,2,4,3,9,615
-Wraith,Automatic Rifles,Purple,2,Automatic Rifles,Blue,4,Theory of Captivity,5,Foundry Sector,Incursion,Fallen,25,15,4,4,2,2,1,0,31,874
-Wraith,Automatic Rifles,Green,2,Bolt Action Rifles,White,0,Lunar Warhorn,8,Military District,Elite Incursion,Fallen,14,9,3,2,0,1,2,3,16,860
-Immortal,Machine Guns,White,0,Machine Guns,Green,10,Lunar Warhorn,5,Iron Slums,Incursion,Extracted,16,10,3,2,1,2,2,1,26,829
-Immortal,Machine Guns,White,0,Trench Guns,Orange,0,Theory of Captivity,8,Iron Slums,Elite Incursion,Extracted,7,6,1,0,0,0,0,0,3,216
-Occultist,Bolt Action Rifles,Green,14,Machine Guns,Orange,0,Lunar Warhorn,12,Aristocratic Ward,Invasion,Fallen,9,7,2,0,0,2,1,0,14,405
-Wraith,Trench Guns,Blue,5,Revolvers,Green,9,Farsight,5,Aristocratic Ward,Incursion,Extracted,43,25,9,5,4,0,5,7,29,1360
-Arcanist,Revolvers,Green,5,Machine Guns,Blue,1,Fear & Loathing,8,Aristocratic Ward,Elite Incursion,Extracted,149,99,31,15,4,0,13,10,74,3518
-Immortal,Automatic Rifles,Purple,5,Bolt Action Rifles,White,0,Warden,13,Military District,Incursion,Extracted,60,37,9,8,6,2,8,7,26,1447
-Wraith,Trench Guns,Blue,3,Trench Guns,Blue,10,Lunar Warhorn,5,Military District,Invasion,Extracted,36,24,6,4,2,2,2,2,30,1112
-Monolith,Revolvers,Blue,3,Automatic Rifles,White,0,Wurm Food,8,Aristocratic Ward,Incursion,Extracted,20,15,3,1,1,0,3,6,27,1132
-Immortal,Automatic Rifles,Green,2,Automatic Rifles,White,0,Fear & Loathing,9,Iron Slums,Eclipse Protocol,Extracted,12,8,2,2,0,0,3,1,13,402
-Hellion,Automatic Rifles,White,0,Lever Action Rifles,Blue,5,Korzuul's Head,10,Military District,Incursion,Extracted,9,6,1,1,1,0,1,3,11,761
-Monolith,Revolvers,White,0,Trench Guns,Blue,2,Theory of Captivity,12,Aristocratic Ward,Incursion,Extracted,77,44,19,7,7,1,9,6,61,2075
-Occultist,Trench Guns,White,0,Machine Guns,Blue,8,Fear & Loathing,5,Marketplace,Lair,Extracted,7,5,1,1,0,2,0,0,11,459
-Occultist,Bolt Action Rifles,Green,10,Trench Guns,Green,3,Postmaster,11,Military District,Incursion,Extracted,9,7,2,0,0,0,2,3,3,182
-Hellion,Automatic Rifles,White,0,Bolt Action Rifles,White,0,Postmaster,9,Aristocratic Ward,Lair,Extracted,34,21,8,5,0,2,5,4,15,909
-Immortal,Bolt Action Rifles,Blue,4,Trench Guns,White,0,Soul Reaper,8,Aristocratic Ward,Elite Incursion,Extracted,29,18,7,3,1,1,2,3,18,1085
-Arcanist,Bolt Action Rifles,Blue,7,Bolt Action Rifles,Orange,0,Farsight,7,Aristocratic Ward,Elite Incursion,Extracted,40,23,7,6,4,0,6,4,38,2348
-Hellion,Revolvers,White,0,Machine Guns,Blue,8,Wolfpack,6,Foundry Sector,Elite Incursion,Extracted,3,3,0,0,0,0,0,1,4,163
-Occultist,Automatic Rifles,Blue,6,Trench Guns,Purple,1,Wurm Food,11,Foundry Sector,Elite Incursion,Extracted,23,15,5,2,1,0,2,0,34,1309
-Immortal,Automatic Rifles,White,0,Automatic Rifles,Blue,4,Wolfpack,10,Iron Slums,Eclipse Protocol,Extracted,37,24,10,3,0,0,2,3,18,1187
-Occultist,Revolvers,White,0,Bolt Action Rifles,Green,15,Lunar Warhorn,3,Aristocratic Ward,Elite Incursion,Fallen,106,61,27,9,9,1,8,4,59,2390
-Wraith,Automatic Rifles,Green,7,Revolvers,White,0,Fear & Loathing,0,Aristocratic Ward,Invasion,Extracted,22,15,4,2,1,0,2,5,11,603
-Occultist,Trench Guns,White,0,Trench Guns,Blue,1,Soul Reaper,14,Foundry Sector,Elite Incursion,Fallen,40,26,10,4,0,3,3,1,29,1094
-Immortal,Trench Guns,Blue,4,Trench Guns,Green,11,Wurm Food,4,Iron Slums,Elite Incursion,Extracted,15,9,4,2,0,0,1,2,18,556
-Occultist,Bolt Action Rifles,Purple,4,Trench Guns,Blue,3,Wurm Food,13,Wilderness,Incursion,Extracted,27,17,5,2,3,0,2,3,27,1035
-Wraith,Automatic Rifles,Purple,1,Revolvers,White,0,Soul Reaper,11,Marketplace,Incursion,Extracted,26,18,4,2,2,1,2,3,36,1377
-Monolith,Bolt Action Rifles,Orange,0,Lever Action Rifles,Blue,2,Postmaster,9,Iron Slums,Lair,Extracted,41,27,7,6,1,1,3,6,28,1383
-Monolith,Automatic Rifles,Purple,3,Trench Guns,Purple,1,Wurm Food,8,Military District,Incursion,Extracted,8,5,2,1,0,0,1,2,4,279
-Hellion,Lever Action Rifles,Purple,3,Revolvers,White,0,Wolfpack,9,Wilderness,Elite Incursion,Extracted,4,3,1,0,0,2,3,2,4,237
-Immortal,Bolt Action Rifles,Blue,10,Bolt Action Rifles,Orange,0,Postmaster,9,Wilderness,Incursion,Extracted,15,10,3,2,0,2,1,3,13,505
-Hellion,Automatic Rifles,Green,13,Revolvers,Blue,6,Wolfpack,13,Aristocratic Ward,Incursion,Extracted,5,4,1,0,0,2,2,3,4,133
-Arcanist,Machine Guns,Purple,3,Machine Guns,White,0,Korzuul's Head,7,Aristocratic Ward,Lair,Extracted,51,27,14,9,1,1,5,3,31,1143
-Occultist,Revolvers,Green,9,Lever Action Rifles,Blue,1,Korzuul's Head,8,Marketplace,Elite Incursion,Extracted,29,17,8,4,0,3,4,4,33,1104
-Monolith,Machine Guns,White,0,Lever Action Rifles,White,0,Soul Reaper,12,Iron Slums,Elite Incursion,Extracted,11,8,2,1,0,1,1,0,17,734
+Hellion,Machine Gun,Green,8,Bolt Action Rifle,Green,7,Soul Reaper,9,Foundry Sector,Eclipse Protocol,Fallen,24,16,4,3,1,2,1,1,17,500
+Hellion,Lever Action Rifle,White,0,Lever Action Rifle,Blue,4,Farsight,8,Iron Slums,Elite Incursion,Fallen,20,16,3,1,0,4,1,1,10,441
+Wraith,Machine Gun,Purple,5,Automatic Rifle,Blue,2,Lunar Warhorn,6,Foundry Sector,Elite Incursion,Extracted,10,7,2,1,0,1,2,2,6,281
+Monolith,Revolver,White,0,Revolver,Blue,6,Wurm Food,14,Iron Slums,Elite Incursion,Extracted,24,16,4,2,2,0,3,4,44,1285
+Arcanist,Revolver,Green,15,Lever Action Rifle,Blue,2,Postmaster,11,Military District,Incursion,Extracted,24,14,6,2,2,0,3,2,21,705
+Arcanist,Revolver,White,0,Revolver,Blue,9,Fear & Loathing,9,Wilderness,Eclipse Protocol,Extracted,17,11,4,2,0,0,3,2,8,418
+Hellion,Revolver,Green,15,Trench Gun,Blue,9,Wolfpack,1,Foundry Sector,Eclipse Protocol,Fallen,27,18,7,2,0,2,5,5,35,1215
+Hellion,Trench Gun,Blue,8,Revolver,Blue,2,Wolfpack,7,Iron Slums,Incursion,Extracted,142,78,35,27,2,0,10,18,39,2879
+Wraith,Automatic Rifle,Green,8,Bolt Action Rifle,White,0,Korzuul's Head,12,Military District,Invasion,Extracted,9,6,2,1,0,2,1,1,4,251
+Immortal,Automatic Rifle,Blue,3,Automatic Rifle,Purple,5,Postmaster,9,Wilderness,Incursion,Extracted,58,38,11,9,0,0,4,7,40,1477
+Hellion,Lever Action Rifle,Blue,2,Revolver,Green,8,Fear & Loathing,11,Marketplace,Invasion,Extracted,41,28,7,6,0,2,4,2,25,1326
+Occultist,Automatic Rifle,White,0,Lever Action Rifle,White,0,Korzuul's Head,13,Military District,Invasion,Fallen,53,33,10,7,3,3,5,6,31,1089
+Monolith,Lever Action Rifle,Purple,1,Machine Gun,Purple,4,Theory of Captivity,6,Aristocratic Ward,Incursion,Extracted,12,9,2,1,0,0,3,1,12,365
+Hellion,Bolt Action Rifle,Blue,5,Bolt Action Rifle,White,0,Soul Reaper,1,Foundry Sector,Incursion,Extracted,109,64,28,17,0,0,7,5,61,2432
+Immortal,Automatic Rifle,Green,11,Automatic Rifle,Green,1,Korzuul's Head,8,Wilderness,Lair,Fallen,7,6,1,0,0,3,1,0,18,586
+Arcanist,Automatic Rifle,Green,2,Revolver,White,0,Postmaster,7,Marketplace,Elite Incursion,Extracted,70,44,14,9,3,1,7,6,117,3464
+Hellion,Trench Gun,Blue,10,Bolt Action Rifle,Green,14,Farsight,7,Marketplace,Elite Incursion,Extracted,28,19,5,3,1,0,6,2,25,822
+Wraith,Revolver,Blue,9,Trench Gun,Orange,0,Warden,5,Wilderness,Incursion,Extracted,7,4,2,1,0,1,1,2,2,202
+Occultist,Automatic Rifle,Green,12,Lever Action Rifle,Blue,7,Korzuul's Head,12,Wilderness,Lair,Fallen,0,0,0,0,0,3,2,3,1,65
+Wraith,Trench Gun,White,0,Trench Gun,Purple,5,Warden,7,Foundry Sector,Invasion,Extracted,3,3,0,0,0,0,0,0,5,162
+Wraith,Lever Action Rifle,Green,4,Revolver,Green,10,Wurm Food,12,Aristocratic Ward,Elite Incursion,Extracted,14,11,2,1,0,1,1,0,19,597
+Monolith,Automatic Rifle,Green,10,Automatic Rifle,Green,4,Fear & Loathing,12,Wilderness,Eclipse Protocol,Extracted,2,2,0,0,0,1,0,0,3,157
+Arcanist,Bolt Action Rifle,Green,12,Lever Action Rifle,Blue,1,Wurm Food,12,Marketplace,Eclipse Protocol,Extracted,48,27,12,9,0,0,5,3,31,1417
+Arcanist,Automatic Rifle,White,0,Machine Gun,White,0,Postmaster,7,Aristocratic Ward,Incursion,Extracted,56,36,11,8,1,2,3,4,25,1320
+Occultist,Revolver,Orange,0,Bolt Action Rifle,White,0,Theory of Captivity,7,Wilderness,Incursion,Extracted,10,8,1,1,0,0,1,3,6,354
+Monolith,Trench Gun,Green,12,Lever Action Rifle,Purple,5,Korzuul's Head,9,Iron Slums,Elite Incursion,Extracted,133,83,33,15,2,0,8,8,63,2757
+Arcanist,Automatic Rifle,White,0,Revolver,Green,14,Theory of Captivity,4,Aristocratic Ward,Incursion,Extracted,26,16,6,4,0,0,1,3,11,661
+Monolith,Bolt Action Rifle,White,0,Lever Action Rifle,Blue,10,Lunar Warhorn,3,Aristocratic Ward,Eclipse Protocol,Extracted,26,17,5,3,1,0,1,2,14,786
+Monolith,Lever Action Rifle,White,0,Machine Gun,Blue,5,Lunar Warhorn,8,Wilderness,Incursion,Extracted,12,9,1,2,0,0,3,4,4,264
+Immortal,Revolver,Green,7,Trench Gun,Blue,7,Soul Reaper,13,Marketplace,Invasion,Extracted,35,22,7,6,0,0,6,5,31,1237
+Wraith,Machine Gun,Purple,2,Automatic Rifle,Green,14,Fear & Loathing,9,Foundry Sector,Eclipse Protocol,Fallen,8,5,2,1,0,4,1,1,4,245
+Wraith,Lever Action Rifle,White,0,Automatic Rifle,Purple,2,Theory of Captivity,12,Marketplace,Incursion,Extracted,16,11,3,2,0,2,1,0,17,823
+Hellion,Automatic Rifle,Blue,1,Bolt Action Rifle,Green,10,Wurm Food,12,Foundry Sector,Eclipse Protocol,Extracted,3,3,0,0,0,1,0,0,2,179
+Monolith,Revolver,Purple,3,Lever Action Rifle,Green,7,Fear & Loathing,5,Marketplace,Elite Incursion,Extracted,32,18,8,5,1,0,4,4,40,1271
+Hellion,Machine Gun,White,0,Revolver,White,0,Wurm Food,4,Marketplace,Elite Incursion,Extracted,13,8,3,2,0,2,1,3,19,800
+Immortal,Lever Action Rifle,Blue,7,Revolver,Blue,4,Farsight,7,Military District,Incursion,Extracted,6,4,1,1,0,3,0,1,5,260
+Monolith,Bolt Action Rifle,Green,5,Lever Action Rifle,White,0,Wurm Food,8,Iron Slums,Elite Incursion,Extracted,11,8,3,0,0,1,3,2,11,662
+Wraith,Bolt Action Rifle,Blue,2,Machine Gun,White,0,Lunar Warhorn,6,Iron Slums,Incursion,Extracted,21,14,5,2,0,0,4,1,22,691
+Hellion,Trench Gun,White,0,Bolt Action Rifle,Blue,7,Postmaster,3,Marketplace,Elite Incursion,Extracted,11,9,2,0,0,2,2,2,16,501
+Hellion,Machine Gun,Blue,4,Bolt Action Rifle,Blue,2,Wurm Food,12,Wilderness,Elite Incursion,Extracted,22,14,4,3,1,2,3,2,18,680
+Wraith,Lever Action Rifle,Green,6,Machine Gun,Purple,5,Fear & Loathing,7,Aristocratic Ward,Invasion,Extracted,24,15,6,3,0,0,1,1,19,562
+Monolith,Automatic Rifle,Purple,4,Lever Action Rifle,Green,14,Warden,6,Iron Slums,Invasion,Fallen,45,30,7,8,0,4,2,4,34,1100
+Wraith,Revolver,Purple,1,Machine Gun,Blue,10,Korzuul's Head,2,Iron Slums,Eclipse Protocol,Extracted,27,19,5,3,0,0,3,0,18,673
+Immortal,Lever Action Rifle,Green,15,Lever Action Rifle,Blue,2,Farsight,15,Aristocratic Ward,Incursion,Extracted,6,5,1,0,0,1,0,0,5,194
+Arcanist,Machine Gun,White,0,Machine Gun,Green,2,Warden,9,Aristocratic Ward,Lair,Extracted,28,20,4,3,1,1,2,2,27,1247
+Immortal,Revolver,Green,1,Trench Gun,White,0,Wolfpack,9,Iron Slums,Eclipse Protocol,Extracted,6,5,1,0,0,0,1,0,8,392
+Arcanist,Automatic Rifle,Blue,8,Trench Gun,White,0,Wurm Food,9,Wilderness,Invasion,Extracted,33,19,9,4,1,0,2,4,20,1213
+Monolith,Machine Gun,Blue,5,Machine Gun,White,0,Warden,5,Marketplace,Incursion,Extracted,28,16,6,4,2,0,3,4,11,803
+Wraith,Revolver,Green,7,Revolver,Green,11,Wurm Food,8,Aristocratic Ward,Incursion,Extracted,48,27,12,9,0,0,3,3,27,1009
+Monolith,Lever Action Rifle,Purple,5,Revolver,Green,13,Lunar Warhorn,6,Iron Slums,Incursion,Extracted,10,7,2,1,0,0,2,1,11,545
+Hellion,Lever Action Rifle,White,0,Bolt Action Rifle,Green,15,Wolfpack,9,Marketplace,Incursion,Extracted,8,6,1,1,0,2,0,0,7,216
+Wraith,Automatic Rifle,Purple,1,Lever Action Rifle,Orange,0,Wurm Food,6,Iron Slums,Incursion,Extracted,35,20,9,4,2,0,3,5,20,1103
+Hellion,Machine Gun,Purple,4,Bolt Action Rifle,Blue,3,Fear & Loathing,10,Marketplace,Elite Incursion,Extracted,31,19,8,4,0,2,4,3,45,1453
+Monolith,Bolt Action Rifle,Green,1,Trench Gun,Orange,0,Soul Reaper,12,Military District,Elite Incursion,Fallen,26,17,5,3,1,3,2,2,47,1413
+Immortal,Bolt Action Rifle,White,0,Revolver,Blue,1,Wurm Food,8,Wilderness,Eclipse Protocol,Extracted,46,25,13,4,4,1,2,2,47,1701
+Arcanist,Machine Gun,White,0,Trench Gun,Orange,0,Wolfpack,14,Military District,Elite Incursion,Fallen,128,78,29,21,0,2,10,7,61,3497
+Occultist,Lever Action Rifle,White,0,Revolver,White,0,Theory of Captivity,5,Iron Slums,Eclipse Protocol,Fallen,36,23,7,6,0,1,3,3,23,1192
+Arcanist,Revolver,Blue,6,Lever Action Rifle,Blue,3,Theory of Captivity,8,Marketplace,Elite Incursion,Extracted,48,25,14,7,2,1,2,1,22,1478
+Arcanist,Automatic Rifle,Blue,4,Automatic Rifle,Purple,4,Theory of Captivity,13,Foundry Sector,Elite Incursion,Fallen,53,34,9,7,3,1,3,2,41,1489
+Monolith,Lever Action Rifle,Orange,0,Lever Action Rifle,Purple,4,Postmaster,11,Military District,Elite Incursion,Extracted,7,5,1,0,1,2,1,1,7,537
+Occultist,Lever Action Rifle,White,0,Trench Gun,Green,10,Soul Reaper,6,Iron Slums,Eclipse Protocol,Fallen,14,10,2,1,1,3,3,3,14,412
+Hellion,Automatic Rifle,Blue,4,Automatic Rifle,White,0,Soul Reaper,11,Iron Slums,Eclipse Protocol,Extracted,39,23,7,5,4,0,3,3,32,1791
+Wraith,Revolver,Green,9,Lever Action Rifle,Green,1,Lunar Warhorn,10,Aristocratic Ward,Invasion,Extracted,18,12,4,1,1,2,1,1,22,699
+Arcanist,Bolt Action Rifle,Green,2,Bolt Action Rifle,Blue,6,Wurm Food,14,Foundry Sector,Incursion,Extracted,53,31,12,7,3,0,2,1,26,1196
+Wraith,Lever Action Rifle,White,0,Lever Action Rifle,Blue,9,Korzuul's Head,1,Aristocratic Ward,Incursion,Extracted,58,36,9,10,3,2,6,6,52,1890
+Arcanist,Automatic Rifle,White,0,Automatic Rifle,Purple,5,Lunar Warhorn,4,Foundry Sector,Eclipse Protocol,Extracted,11,8,1,1,1,0,2,1,8,370
+Occultist,Revolver,Blue,10,Machine Gun,Blue,1,Korzuul's Head,4,Marketplace,Incursion,Extracted,2,2,0,0,0,1,0,0,2,112
+Hellion,Bolt Action Rifle,Blue,8,Automatic Rifle,Blue,8,Wolfpack,15,Aristocratic Ward,Incursion,Extracted,4,3,1,0,0,1,1,0,3,115
+Immortal,Trench Gun,White,0,Trench Gun,Green,8,Warden,9,Marketplace,Incursion,Extracted,14,10,3,1,0,1,3,2,15,951
+Monolith,Lever Action Rifle,Blue,10,Machine Gun,Orange,0,Wolfpack,9,Aristocratic Ward,Incursion,Extracted,10,8,1,1,0,0,4,3,29,1076
+Wraith,Machine Gun,Green,2,Revolver,White,0,Korzuul's Head,13,Military District,Incursion,Extracted,19,13,4,2,0,0,3,4,18,577
+Arcanist,Bolt Action Rifle,White,0,Trench Gun,Orange,0,Wurm Food,6,Military District,Lair,Extracted,31,18,5,5,3,0,2,2,21,905
+Occultist,Machine Gun,Green,7,Bolt Action Rifle,Blue,6,Warden,13,Aristocratic Ward,Eclipse Protocol,Extracted,70,44,15,8,3,3,11,5,101,3577
+Arcanist,Revolver,White,0,Trench Gun,Green,3,Lunar Warhorn,13,Marketplace,Invasion,Extracted,11,8,2,1,0,1,0,0,22,1006
+Arcanist,Machine Gun,Purple,3,Machine Gun,White,0,Lunar Warhorn,8,Iron Slums,Incursion,Extracted,16,11,3,2,0,1,2,1,14,722
+Occultist,Machine Gun,White,0,Machine Gun,Purple,3,Soul Reaper,14,Aristocratic Ward,Eclipse Protocol,Extracted,25,15,4,2,4,1,2,2,34,1153
+Wraith,Automatic Rifle,Green,8,Revolver,Green,7,Korzuul's Head,7,Iron Slums,Incursion,Extracted,90,53,23,12,2,1,8,5,47,2633
+Immortal,Lever Action Rifle,Green,14,Trench Gun,Blue,4,Korzuul's Head,11,Iron Slums,Invasion,Fallen,19,14,3,2,0,1,1,2,13,563
+Monolith,Bolt Action Rifle,White,0,Machine Gun,Blue,2,Postmaster,9,Wilderness,Lair,Extracted,24,14,5,3,2,0,4,2,24,803
+Wraith,Bolt Action Rifle,Blue,1,Bolt Action Rifle,Blue,1,Wurm Food,9,Wilderness,Incursion,Extracted,9,7,2,0,0,0,2,0,4,194
+Arcanist,Trench Gun,Purple,3,Machine Gun,Purple,4,Theory of Captivity,7,Foundry Sector,Invasion,Extracted,2,2,0,0,0,3,1,0,2,116
+Immortal,Lever Action Rifle,Green,5,Machine Gun,Green,5,Fear & Loathing,8,Military District,Incursion,Extracted,35,25,8,2,0,1,5,3,21,1391
+Hellion,Revolver,White,0,Automatic Rifle,White,0,Wurm Food,10,Aristocratic Ward,Invasion,Extracted,51,30,14,6,1,2,4,7,27,1035
+Monolith,Lever Action Rifle,Orange,0,Lever Action Rifle,Green,11,Farsight,7,Foundry Sector,Lair,Extracted,20,12,5,3,0,0,2,4,17,515
+Wraith,Machine Gun,Green,13,Automatic Rifle,Orange,0,Theory of Captivity,9,Iron Slums,Incursion,Fallen,14,11,2,1,0,2,1,2,10,657
+Monolith,Automatic Rifle,Green,5,Bolt Action Rifle,White,0,Soul Reaper,14,Iron Slums,Elite Incursion,Extracted,73,44,21,7,1,3,3,1,90,3231
+Monolith,Machine Gun,Purple,2,Bolt Action Rifle,Green,8,Warden,14,Foundry Sector,Lair,Extracted,8,6,2,0,0,2,3,2,8,371
+Monolith,Machine Gun,Purple,5,Machine Gun,White,0,Fear & Loathing,7,Military District,Elite Incursion,Fallen,125,78,19,19,9,3,12,10,73,3323
+Arcanist,Trench Gun,White,0,Lever Action Rifle,Purple,5,Wurm Food,9,Foundry Sector,Invasion,Extracted,15,11,3,1,0,0,1,1,18,585
+Monolith,Automatic Rifle,White,0,Machine Gun,Green,7,Warden,10,Iron Slums,Incursion,Extracted,21,14,5,2,0,2,2,5,27,758
+Immortal,Machine Gun,Purple,2,Machine Gun,Green,10,Wolfpack,0,Wilderness,Incursion,Extracted,23,14,6,3,0,2,1,3,9,558
+Arcanist,Bolt Action Rifle,Green,15,Machine Gun,Purple,1,Soul Reaper,8,Foundry Sector,Eclipse Protocol,Extracted,11,8,2,1,0,1,0,2,18,776
+Hellion,Automatic Rifle,Green,7,Bolt Action Rifle,White,0,Soul Reaper,14,Military District,Elite Incursion,Extracted,20,13,4,3,0,0,1,1,7,470
+Hellion,Trench Gun,Purple,4,Revolver,Orange,0,Fear & Loathing,12,Foundry Sector,Lair,Fallen,18,11,5,2,0,5,1,0,23,705
+Immortal,Bolt Action Rifle,White,0,Bolt Action Rifle,Blue,1,Wurm Food,10,Military District,Lair,Extracted,4,4,0,0,0,0,2,2,6,274
+Monolith,Machine Gun,Green,8,Trench Gun,Purple,3,Wurm Food,14,Military District,Eclipse Protocol,Fallen,10,7,2,1,0,2,1,0,7,546
+Wraith,Trench Gun,Purple,4,Revolver,Green,3,Warden,15,Military District,Lair,Fallen,27,15,8,3,1,4,3,4,20,798
+Occultist,Automatic Rifle,White,0,Bolt Action Rifle,Green,2,Farsight,12,Marketplace,Eclipse Protocol,Fallen,28,19,5,2,2,5,3,0,23,922
+Hellion,Bolt Action Rifle,White,0,Automatic Rifle,Purple,5,Wolfpack,9,Aristocratic Ward,Incursion,Extracted,29,19,6,4,0,1,1,0,38,1098
+Monolith,Automatic Rifle,White,0,Lever Action Rifle,Green,4,Lunar Warhorn,10,Foundry Sector,Invasion,Fallen,28,16,8,3,1,2,3,3,19,802
+Wraith,Lever Action Rifle,Green,2,Trench Gun,Green,13,Theory of Captivity,0,Wilderness,Lair,Extracted,8,7,1,0,0,2,1,0,12,535
+Wraith,Revolver,Green,3,Revolver,White,0,Wurm Food,7,Marketplace,Eclipse Protocol,Extracted,16,12,3,1,0,0,1,3,15,629
+Wraith,Trench Gun,Green,9,Bolt Action Rifle,Purple,1,Postmaster,7,Aristocratic Ward,Elite Incursion,Fallen,3,3,0,0,0,4,0,1,1,113
+Immortal,Machine Gun,White,0,Automatic Rifle,Blue,2,Wolfpack,13,Iron Slums,Eclipse Protocol,Fallen,20,14,4,2,0,2,1,2,29,1186
+Occultist,Trench Gun,Blue,2,Automatic Rifle,Purple,4,Wolfpack,5,Iron Slums,Elite Incursion,Extracted,7,6,1,0,0,0,2,1,21,683
+Immortal,Trench Gun,White,0,Bolt Action Rifle,Orange,0,Wolfpack,9,Iron Slums,Invasion,Extracted,4,4,0,0,0,3,1,2,3,166
+Monolith,Machine Gun,Green,3,Machine Gun,Green,13,Postmaster,8,Military District,Incursion,Extracted,8,7,1,0,0,0,2,3,5,277
+Immortal,Automatic Rifle,White,0,Trench Gun,Purple,4,Wurm Food,6,Aristocratic Ward,Incursion,Extracted,12,8,2,1,1,0,0,1,8,336
+Wraith,Lever Action Rifle,White,0,Lever Action Rifle,White,0,Korzuul's Head,10,Marketplace,Lair,Extracted,2,2,0,0,0,2,0,0,5,194
+Hellion,Machine Gun,Blue,8,Machine Gun,Green,3,Wurm Food,14,Aristocratic Ward,Incursion,Extracted,11,7,2,2,0,0,0,1,9,543
+Arcanist,Revolver,White,0,Automatic Rifle,Green,11,Postmaster,6,Wilderness,Invasion,Extracted,11,8,2,1,0,0,2,3,11,488
+Immortal,Bolt Action Rifle,Green,10,Revolver,Orange,0,Wolfpack,8,Marketplace,Invasion,Fallen,14,9,3,2,0,1,2,1,11,430
+Immortal,Trench Gun,Purple,3,Revolver,Green,4,Farsight,8,Iron Slums,Invasion,Extracted,28,17,6,5,0,2,1,2,22,845
+Occultist,Machine Gun,Blue,8,Revolver,Green,10,Theory of Captivity,9,Foundry Sector,Lair,Extracted,29,20,4,2,3,0,3,4,13,964
+Arcanist,Lever Action Rifle,White,0,Machine Gun,Blue,1,Theory of Captivity,9,Iron Slums,Eclipse Protocol,Extracted,42,29,6,5,2,1,4,3,40,1441
+Hellion,Revolver,White,0,Machine Gun,Blue,5,Korzuul's Head,8,Wilderness,Incursion,Extracted,40,23,11,6,0,0,2,4,34,978
+Immortal,Trench Gun,Purple,3,Trench Gun,Purple,5,Soul Reaper,6,Marketplace,Invasion,Fallen,21,13,4,4,0,3,2,1,25,750
+Monolith,Machine Gun,White,0,Automatic Rifle,White,0,Lunar Warhorn,12,Military District,Elite Incursion,Extracted,3,3,0,0,0,0,1,2,3,90
+Occultist,Bolt Action Rifle,Purple,5,Bolt Action Rifle,Blue,1,Postmaster,6,Marketplace,Lair,Extracted,16,11,2,3,0,2,1,0,8,477
+Arcanist,Machine Gun,Orange,0,Revolver,White,0,Postmaster,10,Military District,Lair,Extracted,62,41,11,9,1,0,4,5,43,1248
+Occultist,Lever Action Rifle,Orange,0,Lever Action Rifle,Blue,7,Wolfpack,6,Wilderness,Lair,Extracted,40,25,9,5,1,2,3,1,49,1416
+Monolith,Machine Gun,Green,3,Automatic Rifle,Orange,0,Wurm Food,6,Marketplace,Eclipse Protocol,Extracted,31,20,7,4,0,1,4,4,19,1010
+Occultist,Trench Gun,White,0,Revolver,Green,7,Lunar Warhorn,7,Marketplace,Lair,Extracted,42,26,6,7,3,2,2,2,38,1111
+Monolith,Lever Action Rifle,Orange,0,Automatic Rifle,Blue,2,Fear & Loathing,8,Military District,Incursion,Extracted,22,15,6,1,0,1,1,0,44,1313
+Monolith,Lever Action Rifle,Green,1,Trench Gun,Purple,4,Soul Reaper,10,Iron Slums,Invasion,Extracted,56,35,13,7,1,1,3,5,21,1279
+Occultist,Lever Action Rifle,White,0,Lever Action Rifle,Green,11,Wurm Food,8,Foundry Sector,Invasion,Extracted,40,27,7,5,1,2,3,3,14,1023
+Hellion,Automatic Rifle,Green,7,Bolt Action Rifle,Orange,0,Wurm Food,12,Marketplace,Invasion,Extracted,17,12,2,2,1,1,3,2,16,571
+Wraith,Machine Gun,White,0,Bolt Action Rifle,Green,3,Theory of Captivity,4,Military District,Invasion,Extracted,25,16,6,3,0,0,3,3,17,948
+Hellion,Machine Gun,Blue,10,Bolt Action Rifle,White,0,Fear & Loathing,15,Wilderness,Incursion,Extracted,44,31,7,5,1,0,4,5,28,892
+Occultist,Trench Gun,White,0,Lever Action Rifle,Blue,5,Soul Reaper,11,Marketplace,Invasion,Fallen,50,30,9,5,6,4,6,3,48,2725
+Monolith,Automatic Rifle,Green,3,Revolver,Green,4,Farsight,6,Iron Slums,Incursion,Extracted,4,4,0,0,0,0,2,1,7,272
+Occultist,Trench Gun,Purple,4,Bolt Action Rifle,Orange,0,Korzuul's Head,5,Foundry Sector,Invasion,Extracted,10,7,2,1,0,2,1,1,8,315
+Hellion,Lever Action Rifle,White,0,Machine Gun,Purple,4,Farsight,11,Wilderness,Elite Incursion,Fallen,7,6,1,0,0,2,2,4,4,149
+Hellion,Automatic Rifle,White,0,Revolver,White,0,Farsight,13,Wilderness,Elite Incursion,Extracted,5,4,1,0,0,2,2,1,7,329
+Hellion,Revolver,Green,14,Automatic Rifle,Blue,10,Postmaster,6,Iron Slums,Lair,Extracted,35,22,7,5,1,2,2,2,22,774
+Occultist,Machine Gun,White,0,Machine Gun,Green,13,Lunar Warhorn,6,Marketplace,Lair,Extracted,9,7,1,1,0,1,2,1,5,257
+Immortal,Automatic Rifle,Blue,8,Lever Action Rifle,Blue,7,Soul Reaper,0,Iron Slums,Elite Incursion,Extracted,2,2,0,0,0,0,0,1,1,80
+Immortal,Automatic Rifle,Blue,5,Lever Action Rifle,Green,3,Lunar Warhorn,8,Marketplace,Incursion,Extracted,32,19,6,5,2,0,3,1,18,1278
+Immortal,Trench Gun,Blue,8,Revolver,Blue,2,Farsight,14,Iron Slums,Elite Incursion,Fallen,18,13,2,3,0,2,0,1,36,1065
+Arcanist,Trench Gun,Purple,1,Bolt Action Rifle,Purple,5,Warden,9,Military District,Incursion,Extracted,2,2,0,0,0,1,0,0,2,98
+Monolith,Trench Gun,White,0,Automatic Rifle,White,0,Lunar Warhorn,9,Marketplace,Invasion,Fallen,11,9,1,1,0,4,2,2,27,871
+Arcanist,Automatic Rifle,Green,4,Trench Gun,Blue,6,Wolfpack,8,Military District,Eclipse Protocol,Extracted,22,15,4,3,0,0,3,1,23,755
+Arcanist,Automatic Rifle,Blue,3,Lever Action Rifle,Blue,4,Theory of Captivity,8,Aristocratic Ward,Eclipse Protocol,Extracted,27,16,7,4,0,0,2,1,33,1418
+Hellion,Revolver,Blue,4,Machine Gun,White,0,Fear & Loathing,4,Aristocratic Ward,Incursion,Extracted,46,25,10,5,6,0,3,6,55,2568
+Occultist,Trench Gun,White,0,Trench Gun,White,0,Fear & Loathing,8,Iron Slums,Incursion,Fallen,20,14,3,3,0,2,1,1,27,893
+Hellion,Revolver,Purple,4,Lever Action Rifle,White,0,Theory of Captivity,14,Military District,Eclipse Protocol,Extracted,21,14,3,1,3,0,1,3,13,925
+Wraith,Revolver,Blue,2,Trench Gun,Green,5,Warden,4,Marketplace,Incursion,Extracted,14,10,2,2,0,0,3,2,10,519
+Wraith,Trench Gun,White,0,Automatic Rifle,White,0,Korzuul's Head,10,Marketplace,Elite Incursion,Extracted,31,19,8,3,1,2,4,2,25,828
+Monolith,Machine Gun,White,0,Machine Gun,White,0,Wolfpack,10,Marketplace,Incursion,Extracted,17,11,3,3,0,1,4,2,10,396
+Immortal,Automatic Rifle,Blue,3,Machine Gun,White,0,Postmaster,10,Wilderness,Incursion,Extracted,24,16,4,4,0,0,1,3,7,563
+Arcanist,Machine Gun,Orange,0,Revolver,Blue,4,Korzuul's Head,12,Marketplace,Incursion,Fallen,25,16,6,3,0,4,1,2,24,772
+Arcanist,Bolt Action Rifle,Green,12,Trench Gun,Green,7,Wurm Food,4,Aristocratic Ward,Lair,Extracted,17,10,3,2,2,1,2,3,16,685
+Hellion,Bolt Action Rifle,Purple,3,Revolver,Green,10,Farsight,12,Military District,Elite Incursion,Fallen,10,8,1,1,0,2,2,2,6,231
+Arcanist,Automatic Rifle,Blue,9,Revolver,Orange,0,Wurm Food,7,Iron Slums,Incursion,Extracted,27,17,5,5,0,0,1,1,35,1429
+Immortal,Revolver,Blue,5,Automatic Rifle,Green,9,Postmaster,6,Military District,Incursion,Extracted,28,18,6,3,1,1,2,2,24,914
+Arcanist,Automatic Rifle,White,0,Machine Gun,Blue,9,Warden,13,Wilderness,Eclipse Protocol,Extracted,15,9,4,2,0,1,2,0,16,1238
+Arcanist,Lever Action Rifle,Green,7,Lever Action Rifle,White,0,Soul Reaper,7,Wilderness,Incursion,Extracted,3,3,0,0,0,1,1,2,3,132
+Wraith,Bolt Action Rifle,Blue,2,Lever Action Rifle,White,0,Postmaster,11,Wilderness,Eclipse Protocol,Extracted,10,8,2,0,0,0,1,1,10,554
+Hellion,Revolver,Blue,10,Machine Gun,Blue,4,Warden,13,Iron Slums,Incursion,Extracted,3,3,0,0,0,1,0,0,6,200
+Immortal,Machine Gun,White,0,Trench Gun,Purple,2,Warden,8,Iron Slums,Eclipse Protocol,Fallen,19,14,3,2,0,1,1,0,11,656
+Hellion,Lever Action Rifle,White,0,Lever Action Rifle,White,0,Theory of Captivity,6,Aristocratic Ward,Incursion,Extracted,32,22,5,5,0,1,5,1,27,841
+Hellion,Automatic Rifle,Green,11,Automatic Rifle,Blue,7,Wurm Food,14,Aristocratic Ward,Lair,Extracted,28,18,5,2,3,3,3,4,34,1692
+Immortal,Trench Gun,White,0,Machine Gun,White,0,Wurm Food,6,Foundry Sector,Elite Incursion,Extracted,0,0,0,0,0,1,0,0,2,70
+Immortal,Bolt Action Rifle,White,0,Revolver,Blue,1,Soul Reaper,5,Wilderness,Incursion,Extracted,1,1,0,0,0,3,1,2,1,69
+Occultist,Automatic Rifle,White,0,Trench Gun,Purple,1,Korzuul's Head,14,Marketplace,Incursion,Extracted,29,20,4,3,2,2,4,3,9,615
+Wraith,Automatic Rifle,Purple,2,Automatic Rifle,Blue,4,Theory of Captivity,5,Foundry Sector,Incursion,Fallen,25,15,4,4,2,2,1,0,31,874
+Wraith,Automatic Rifle,Green,2,Bolt Action Rifle,White,0,Lunar Warhorn,8,Military District,Elite Incursion,Fallen,14,9,3,2,0,1,2,3,16,860
+Immortal,Machine Gun,White,0,Machine Gun,Green,10,Lunar Warhorn,5,Iron Slums,Incursion,Extracted,16,10,3,2,1,2,2,1,26,829
+Immortal,Machine Gun,White,0,Trench Gun,Orange,0,Theory of Captivity,8,Iron Slums,Elite Incursion,Extracted,7,6,1,0,0,0,0,0,3,216
+Occultist,Bolt Action Rifle,Green,14,Machine Gun,Orange,0,Lunar Warhorn,12,Aristocratic Ward,Invasion,Fallen,9,7,2,0,0,2,1,0,14,405
+Wraith,Trench Gun,Blue,5,Revolver,Green,9,Farsight,5,Aristocratic Ward,Incursion,Extracted,43,25,9,5,4,0,5,7,29,1360
+Arcanist,Revolver,Green,5,Machine Gun,Blue,1,Fear & Loathing,8,Aristocratic Ward,Elite Incursion,Extracted,149,99,31,15,4,0,13,10,74,3518
+Immortal,Automatic Rifle,Purple,5,Bolt Action Rifle,White,0,Warden,13,Military District,Incursion,Extracted,60,37,9,8,6,2,8,7,26,1447
+Wraith,Trench Gun,Blue,3,Trench Gun,Blue,10,Lunar Warhorn,5,Military District,Invasion,Extracted,36,24,6,4,2,2,2,2,30,1112
+Monolith,Revolver,Blue,3,Automatic Rifle,White,0,Wurm Food,8,Aristocratic Ward,Incursion,Extracted,20,15,3,1,1,0,3,6,27,1132
+Immortal,Automatic Rifle,Green,2,Automatic Rifle,White,0,Fear & Loathing,9,Iron Slums,Eclipse Protocol,Extracted,12,8,2,2,0,0,3,1,13,402
+Hellion,Automatic Rifle,White,0,Lever Action Rifle,Blue,5,Korzuul's Head,10,Military District,Incursion,Extracted,9,6,1,1,1,0,1,3,11,761
+Monolith,Revolver,White,0,Trench Gun,Blue,2,Theory of Captivity,12,Aristocratic Ward,Incursion,Extracted,77,44,19,7,7,1,9,6,61,2075
+Occultist,Trench Gun,White,0,Machine Gun,Blue,8,Fear & Loathing,5,Marketplace,Lair,Extracted,7,5,1,1,0,2,0,0,11,459
+Occultist,Bolt Action Rifle,Green,10,Trench Gun,Green,3,Postmaster,11,Military District,Incursion,Extracted,9,7,2,0,0,0,2,3,3,182
+Hellion,Automatic Rifle,White,0,Bolt Action Rifle,White,0,Postmaster,9,Aristocratic Ward,Lair,Extracted,34,21,8,5,0,2,5,4,15,909
+Immortal,Bolt Action Rifle,Blue,4,Trench Gun,White,0,Soul Reaper,8,Aristocratic Ward,Elite Incursion,Extracted,29,18,7,3,1,1,2,3,18,1085
+Arcanist,Bolt Action Rifle,Blue,7,Bolt Action Rifle,Orange,0,Farsight,7,Aristocratic Ward,Elite Incursion,Extracted,40,23,7,6,4,0,6,4,38,2348
+Hellion,Revolver,White,0,Machine Gun,Blue,8,Wolfpack,6,Foundry Sector,Elite Incursion,Extracted,3,3,0,0,0,0,0,1,4,163
+Occultist,Automatic Rifle,Blue,6,Trench Gun,Purple,1,Wurm Food,11,Foundry Sector,Elite Incursion,Extracted,23,15,5,2,1,0,2,0,34,1309
+Immortal,Automatic Rifle,White,0,Automatic Rifle,Blue,4,Wolfpack,10,Iron Slums,Eclipse Protocol,Extracted,37,24,10,3,0,0,2,3,18,1187
+Occultist,Revolver,White,0,Bolt Action Rifle,Green,15,Lunar Warhorn,3,Aristocratic Ward,Elite Incursion,Fallen,106,61,27,9,9,1,8,4,59,2390
+Wraith,Automatic Rifle,Green,7,Revolver,White,0,Fear & Loathing,0,Aristocratic Ward,Invasion,Extracted,22,15,4,2,1,0,2,5,11,603
+Occultist,Trench Gun,White,0,Trench Gun,Blue,1,Soul Reaper,14,Foundry Sector,Elite Incursion,Fallen,40,26,10,4,0,3,3,1,29,1094
+Immortal,Trench Gun,Blue,4,Trench Gun,Green,11,Wurm Food,4,Iron Slums,Elite Incursion,Extracted,15,9,4,2,0,0,1,2,18,556
+Occultist,Bolt Action Rifle,Purple,4,Trench Gun,Blue,3,Wurm Food,13,Wilderness,Incursion,Extracted,27,17,5,2,3,0,2,3,27,1035
+Wraith,Automatic Rifle,Purple,1,Revolver,White,0,Soul Reaper,11,Marketplace,Incursion,Extracted,26,18,4,2,2,1,2,3,36,1377
+Monolith,Bolt Action Rifle,Orange,0,Lever Action Rifle,Blue,2,Postmaster,9,Iron Slums,Lair,Extracted,41,27,7,6,1,1,3,6,28,1383
+Monolith,Automatic Rifle,Purple,3,Trench Gun,Purple,1,Wurm Food,8,Military District,Incursion,Extracted,8,5,2,1,0,0,1,2,4,279
+Hellion,Lever Action Rifle,Purple,3,Revolver,White,0,Wolfpack,9,Wilderness,Elite Incursion,Extracted,4,3,1,0,0,2,3,2,4,237
+Immortal,Bolt Action Rifle,Blue,10,Bolt Action Rifle,Orange,0,Postmaster,9,Wilderness,Incursion,Extracted,15,10,3,2,0,2,1,3,13,505
+Hellion,Automatic Rifle,Green,13,Revolver,Blue,6,Wolfpack,13,Aristocratic Ward,Incursion,Extracted,5,4,1,0,0,2,2,3,4,133
+Arcanist,Machine Gun,Purple,3,Machine Gun,White,0,Korzuul's Head,7,Aristocratic Ward,Lair,Extracted,51,27,14,9,1,1,5,3,31,1143
+Occultist,Revolver,Green,9,Lever Action Rifle,Blue,1,Korzuul's Head,8,Marketplace,Elite Incursion,Extracted,29,17,8,4,0,3,4,4,33,1104
+Monolith,Machine Gun,White,0,Lever Action Rifle,White,0,Soul Reaper,12,Iron Slums,Elite Incursion,Extracted,11,8,2,1,0,1,1,0,17,734
