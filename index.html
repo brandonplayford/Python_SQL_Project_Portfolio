@@ -100,20 +100,14 @@
     padding: 48px 0 100px;
     position: relative;
     z-index: 2;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 28px;
-    align-items: stretch;
   }
 
   .case {
     border: 1px solid var(--line);
     background: var(--bg-raised);
+    margin-bottom: 28px;
     position: relative;
     transition: border-color 0.25s ease;
-    display: flex;
-    flex-direction: column;
-    height: 100%;
   }
 
   .case:hover { border-color: #3a4257; }
@@ -147,12 +141,7 @@
   .status.active { color: var(--teal); }
   .status.pending { color: var(--brass); }
 
-  .case-body {
-    padding: 14px 28px 28px;
-    display: flex;
-    flex-direction: column;
-    flex: 1;
-  }
+  .case-body { padding: 14px 28px 28px; }
 
   .case-title {
     font-family: 'Fraunces', serif;
@@ -166,7 +155,6 @@
     font-size: 14.5px;
     max-width: 62ch;
     margin-bottom: 18px;
-    flex: 1;
   }
 
   .tags {
