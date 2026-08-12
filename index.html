@@ -103,7 +103,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 28px;
-    align-items: start;
+    align-items: stretch;
   }
 
   .case {
@@ -220,6 +220,14 @@
 
   .case.locked .case-title,
   .case.locked .case-desc { color: var(--text-dim); }
+
+  .case.locked .case-desc {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-style: italic;
+  }
 
   .case.locked .open {
     color: var(--text-dim);
