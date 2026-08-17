@@ -1,4 +1,4 @@
-boss_name,outcome,party_size,latest_fight_duration,wipe_count
+final_boss_name,outcome,party_size,latest_fight_duration,wipe_count
 The Seraphic Feedback,Wiped,4,190,4
 "Mirash, Discord's Heart",Wiped,10,364,6
 Forest's Entropy,Wiped,4,110,1
