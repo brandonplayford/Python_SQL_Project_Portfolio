@@ -1,17 +1,17 @@
 final_boss_name,outcome,party_size,latest_fight_duration,wipe_count
-The Seraphic Feedback,Wiped,4,190,4
-"Mirash, Discord's Heart",Wiped,10,364,6
-Forest's Entropy,Wiped,4,110,1
-Whirlwind of Devoured Sounds,Wiped,4,362,9
+The Seraphic Feedback,Not Cleared,4,190,4
+"Mirash, Discord's Heart",Not Cleared,10,364,6
+Forest's Entropy,Not Cleared,4,110,1
+Whirlwind of Devoured Sounds,Not Cleared,4,362,9
 "Xyraeth, Warden of the Broken Verse",Cleared,11,560,1
-The Seraphic Feedback,Wiped,4,303,6
+The Seraphic Feedback,Not Cleared,4,303,6
 None Will Survive...,Cleared,4,600,1
-Thyssara the Sky Cantor,Wiped,4,293,5
+Thyssara the Sky Cantor,Not Cleared,4,293,5
 Forest's Entropy,Cleared,4,201,3
 "Vasriel, Discord's Mind",Cleared,11,767,4
 "Vasriel, Discord's Mind",Cleared,12,847,4
 Dissonant Chorus,Cleared,8,741,1
-The Seraphic Feedback,Wiped,4,308,5
+The Seraphic Feedback,Not Cleared,4,308,5
 The Forge of Stars,Cleared,4,339,0
 The Seraphic Feedback,Cleared,4,445,1
 The Forge of Stars,Cleared,4,291,1
@@ -19,53 +19,53 @@ The Coral Keeper,Cleared,4,257,0
 None Will Survive...,Cleared,4,737,1
 The Seraphic Feedback,Cleared,4,545,1
 Dissonant Chorus,Cleared,10,641,5
-The Seraphic Feedback,Wiped,4,209,3
+The Seraphic Feedback,Not Cleared,4,209,3
 "Xyraeth, Warden of the Broken Verse",Cleared,11,623,4
 The Seraphic Feedback,Cleared,4,382,1
-None Will Survive...,Wiped,4,227,8
+None Will Survive...,Not Cleared,4,227,8
 None Will Survive...,Cleared,4,658,3
 "Obrynth Unleashed, Dissonance Incarnate",Cleared,8,748,6
 The Forge of Stars,Cleared,4,315,1
 Eryth the Fractured Shoal,Cleared,4,505,2
-"Obrynth Unleashed, Dissonance Incarnate",Wiped,12,365,7
-Eryth the Fractured Shoal,Wiped,4,222,4
+"Obrynth Unleashed, Dissonance Incarnate",Not Cleared,12,365,7
+Eryth the Fractured Shoal,Not Cleared,4,222,4
 The Coral Keeper,Cleared,4,319,3
-"Mirash, Discord's Heart",Wiped,11,132,5
+"Mirash, Discord's Heart",Not Cleared,11,132,5
 Whirlwind of Devoured Sounds,Cleared,4,557,8
-"Xyraeth, Warden of the Broken Verse",Wiped,12,309,5
+"Xyraeth, Warden of the Broken Verse",Not Cleared,12,309,5
 The Coral Keeper,Cleared,4,327,0
-Thyssara the Sky Cantor,Wiped,4,365,9
+Thyssara the Sky Cantor,Not Cleared,4,365,9
 The Coral Keeper,Cleared,4,307,2
 "Vasriel, Discord's Mind",Cleared,12,743,6
 The Thunderhold Elites,Cleared,4,360,2
 The Thunderhold Elites,Cleared,4,266,2
 "Corvath, Discord's Voice",Cleared,12,714,3
 The Thunderhold Elites,Cleared,4,339,3
-"Vasriel, Discord's Mind",Wiped,10,373,5
-None Will Survive...,Wiped,4,319,4
-The Coral Keeper,Wiped,4,167,4
-Whirlwind of Devoured Sounds,Wiped,4,190,7
+"Vasriel, Discord's Mind",Not Cleared,10,373,5
+None Will Survive...,Not Cleared,4,319,4
+The Coral Keeper,Not Cleared,4,167,4
+Whirlwind of Devoured Sounds,Not Cleared,4,190,7
 "Onyx, Discord's Will",Cleared,9,693,5
-None Will Survive...,Wiped,4,282,6
-The Coral Keeper,Wiped,4,150,5
-The Thunderhold Elites,Wiped,4,105,5
+None Will Survive...,Not Cleared,4,282,6
+The Coral Keeper,Not Cleared,4,150,5
+The Thunderhold Elites,Not Cleared,4,105,5
 "Obrynth Unleashed, Dissonance Incarnate",Cleared,11,1053,4
 Thyssara the Sky Cantor,Cleared,4,409,6
-The Seraphic Feedback,Wiped,4,262,3
-"Vasriel, Discord's Mind",Wiped,12,429,10
-The Forge of Stars,Wiped,4,149,2
+The Seraphic Feedback,Not Cleared,4,262,3
+"Vasriel, Discord's Mind",Not Cleared,12,429,10
+The Forge of Stars,Not Cleared,4,149,2
 The Thunderhold Elites,Cleared,4,338,0
 Thyssara the Sky Cantor,Cleared,4,751,3
 "Xyraeth, Warden of the Broken Verse",Cleared,9,635,3
 "Corvath, Discord's Voice",Cleared,11,704,1
-"Vasriel, Discord's Mind",Wiped,12,430,8
-Whirlwind of Devoured Sounds,Wiped,4,386,6
+"Vasriel, Discord's Mind",Not Cleared,12,430,8
+Whirlwind of Devoured Sounds,Not Cleared,4,386,6
 "Vasriel, Discord's Mind",Cleared,9,1013,4
 "Xyraeth, Warden of the Broken Verse",Cleared,9,568,3
-"Xyraeth, Warden of the Broken Verse",Wiped,10,295,4
+"Xyraeth, Warden of the Broken Verse",Not Cleared,10,295,4
 Dissonant Chorus,Cleared,11,593,2
 Whirlwind of Devoured Sounds,Cleared,4,773,2
-The Seraphic Feedback,Wiped,4,163,5
+The Seraphic Feedback,Not Cleared,4,163,5
 Shockscale,Cleared,4,291,1
 The Coral Keeper,Cleared,4,283,1
 The Forge of Stars,Cleared,4,275,2
@@ -73,24 +73,24 @@ The Coral Keeper,Cleared,4,285,1
 Dissonant Chorus,Cleared,10,952,1
 None Will Survive...,Cleared,4,692,6
 "Onyx, Discord's Will",Cleared,12,803,5
-Shockscale,Wiped,4,139,5
+Shockscale,Not Cleared,4,139,5
 "Mirash, Discord's Heart",Cleared,10,549,1
-Whirlwind of Devoured Sounds,Wiped,4,440,5
+Whirlwind of Devoured Sounds,Not Cleared,4,440,5
 The Forge of Stars,Cleared,4,309,5
 "Vasriel, Discord's Mind",Cleared,12,811,6
 The Seraphic Feedback,Cleared,4,464,2
 The Coral Keeper,Cleared,4,269,0
-None Will Survive...,Wiped,4,258,5
-"Obrynth Unleashed, Dissonance Incarnate",Wiped,8,340,5
+None Will Survive...,Not Cleared,4,258,5
+"Obrynth Unleashed, Dissonance Incarnate",Not Cleared,8,340,5
 "Onyx, Discord's Will",Cleared,8,821,2
 The Thunderhold Elites,Cleared,4,364,4
 Whirlwind of Devoured Sounds,Cleared,4,671,3
 Shockscale,Cleared,4,265,1
 Shockscale,Cleared,4,260,1
-The Thunderhold Elites,Wiped,4,172,6
+The Thunderhold Elites,Not Cleared,4,172,6
 The Forge of Stars,Cleared,4,322,3
 Dissonant Chorus,Cleared,12,753,7
-"Obrynth Unleashed, Dissonance Incarnate",Wiped,10,420,4
+"Obrynth Unleashed, Dissonance Incarnate",Not Cleared,10,420,4
 "Obrynth Unleashed, Dissonance Incarnate",Cleared,12,1051,6
 The Coral Keeper,Cleared,4,386,2
 Whirlwind of Devoured Sounds,Cleared,4,666,2
@@ -98,4 +98,4 @@ Dissonant Chorus,Cleared,12,577,5
 Thyssara the Sky Cantor,Cleared,4,598,2
 The Coral Keeper,Cleared,4,266,2
 "Xyraeth, Warden of the Broken Verse",Cleared,12,584,3
-"Onyx, Discord's Will",Wiped,12,572,9
+"Onyx, Discord's Will",Not Cleared,12,572,9
