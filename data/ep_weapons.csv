@@ -1,0 +1,8 @@
+weapon_name,weapon_type,base_rarity,base_damage,unlock_tier
+Revolver,Sidearm,Green,32,3
+Trench Gun,Shotgun,Blue,45,4
+Machine Gun,LMG,Purple,58,6
+Bolt Action Rifle,Sniper,Orange,40,5
+Lever Action Rifle,Rifle,Green,38,3
+Automatic Rifle,Rifle,Blue,50,5
+Prototype Railgun,Heavy,Orange,95,8
